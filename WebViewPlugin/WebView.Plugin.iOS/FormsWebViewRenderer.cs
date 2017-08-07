@@ -1,4 +1,4 @@
-﻿using System;
+﻿﻿using System;
 using WebKit;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.iOS;
@@ -63,6 +63,7 @@ namespace Xam.Plugin.iOS
             webView.Opaque = false;
             webView.UIDelegate = this;
             webView.NavigationDelegate = NavigationDelegate;
+            webView.ScalesPageToFit = true;
 
             OnControlChanging?.Invoke(this, Element, Control);
             SetNativeControl(webView);

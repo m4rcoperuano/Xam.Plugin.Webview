@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C1013657-7E4E-4ACA-8193-D4F330ED1B2B}|Default">
+  <MonoDevelop.Ide.ItemProperties.SampleApp.Droid PreferredExecutionTarget="Xamarin.Player.XamarinStudio.DefaultPlayerExecutionTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebViewPlugin/WebView.Plugin.iOS/FormsWebViewRenderer.cs">
+    <Files>
+      <File FileName="WebViewPlugin/WebView.Plugin.iOS/FormsWebViewRenderer.cs" Line="69" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
